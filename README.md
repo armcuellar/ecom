@@ -28,7 +28,7 @@ Once database is running you can use the routes to Create, Read, Update, and Del
 [Video link of how to use ecom-backend](https://drive.google.com/file/d/1KMrbmlmxXdu96RxwNCorbZ9alQswbIVe/view)
 
 
-## Creditsclear
+## Credits
 
 [Armando Cuellar](https://github.com/armcuellar) 
 
